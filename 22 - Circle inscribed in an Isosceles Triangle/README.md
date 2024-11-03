@@ -14,10 +14,7 @@
 
 ## 🔧 Functions Used
 - 📥 **`Read(float& a, float& b)`**: Prompts the user to input the side length `a` and base `b` of the triangle.
-- 🧮 **`CalculArea(float a, float b)`**: Calculates the area of the circle inscribed within the triangle using:
-   \[
-   \text{Area} = \frac{\pi \cdot b^2}{4} \cdot \frac{2a - b}{2a + b}
-   \]
+- 🧮 **`CalculArea(float a, float b)`**: Calculates the area of the circle inscribed within the triangle. 
 - 🖨️ **`Print(float Area)`**: Outputs the calculated area to the console.
 
 ## 🚀 Getting Started
