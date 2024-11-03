@@ -1,4 +1,4 @@
-# 🟡 Prime Number Checker
+# 🟡 Problem 38: Prime Number Checker
 
 > **A C++ program that determines whether a given positive number is prime or not.**
 
