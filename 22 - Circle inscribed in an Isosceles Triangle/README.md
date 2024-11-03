@@ -31,5 +31,5 @@
 Please Enter The Triangle Side a : 6
 Please Enter The Triangle Base b : 4
 
-The Circle Area Inscribed In An Isosceles Triangle is : [calculated_area]
+The Circle Area Inscribed In An Isosceles Triangle is : 6.28
 
