@@ -1,4 +1,4 @@
-# 🔺 Circle Area Described Around an Arbitrary Triangle
+# 🔺 Problem 23 :Circle Area Described Around an Arbitrary Triangle
 
 > **Calculate the area of a circle circumscribed around any triangle** using this efficient C++ program.
 
@@ -9,7 +9,7 @@ This program calculates the **area of a circle circumscribed around an arbitrary
 
 ## 🌟 Features
 - **📥 User-Friendly Input:** Guides you to enter the three side lengths (`a`, `b`, `c`) of your triangle.
-- **📐 Accurate Calculations:** Uses Heron's formula to determine the area of the circle circumscribing the triangle.
+- **📐 Accurate Calculations:** Uses Heron's formula to determine the area of the circle that circumscribes the triangle.
 - **📊 Clear Output:** Displays the calculated area of the circle directly, ensuring an easy-to-read result.
 
 ---
@@ -30,10 +30,11 @@ This program calculates the **area of a circle circumscribed around an arbitrary
 
 ---
 
-## 🚀 Quick Start Guide
+## ▶️ Execution Example
 
-1. **Compilation**: Ensure you have a C++ compiler installed.
-2. **Run the Program**: 
-   ```shell
-   g++ -o triangle_circle_area triangle_circle_area.cpp
-   ./triangle_circle_area
+```plaintext
+Please Enter The Triangle Side a : 5
+Please Enter The Triangle Base b : 6
+Please Enter The Triangle Side c : 7
+
+The Circle Area Described Around An Arbitrary Triangle is: 38.48
